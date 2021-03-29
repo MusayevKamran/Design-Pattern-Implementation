@@ -1,0 +1,13 @@
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
