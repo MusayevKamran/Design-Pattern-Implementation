@@ -5,15 +5,25 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{542EFBB6-BEF3-41AA-BAC0-6006035F3B2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Creational\AbstractFactory\AbstractFactory.csproj", "{D5269F38-F231-4143-B4F5-4DFF3735D4C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "Creational\AbstractFactory\AbstractFactory.csproj", "{D5269F38-F231-4143-B4F5-4DFF3735D4C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Creational\Builder\Builder.csproj", "{08B0EB9C-EB93-4814-91E6-DEDA60794CFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Creational\Builder\Builder.csproj", "{08B0EB9C-EB93-4814-91E6-DEDA60794CFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "Creational\FactoryMethod\FactoryMethod.csproj", "{0E4535AB-6373-4CA5-8031-12686F08D946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "Creational\FactoryMethod\FactoryMethod.csproj", "{0E4535AB-6373-4CA5-8031-12686F08D946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Creational\Prototype\Prototype.csproj", "{7F9A4161-919F-49B3-B66E-4BD6980B75FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Creational\Prototype\Prototype.csproj", "{7F9A4161-919F-49B3-B66E-4BD6980B75FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Creational\Singleton\Singleton.csproj", "{C2B06024-7811-42CE-8F56-F38ACB302F78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Creational\Singleton\Singleton.csproj", "{C2B06024-7811-42CE-8F56-F38ACB302F78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{4DA7DEA6-7F00-435B-B597-D9DD2ABE6429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Structural\Adapter\Adapter.csproj", "{22A5A229-479B-4615-85C1-900BE173B5A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Structural\Bridge\Bridge.csproj", "{BD1F59C9-614A-4C6A-8FF2-38715D1879DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Structural\Composite\Composite.csproj", "{E6D6BBED-0186-4CB6-A1F3-D1C0EB449449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Structural\Decorator\Decorator.csproj", "{7AAFE721-BFE6-4669-8D2D-F9128FE6CFAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +51,22 @@ Global
 		{C2B06024-7811-42CE-8F56-F38ACB302F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2B06024-7811-42CE-8F56-F38ACB302F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2B06024-7811-42CE-8F56-F38ACB302F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A5A229-479B-4615-85C1-900BE173B5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A5A229-479B-4615-85C1-900BE173B5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A5A229-479B-4615-85C1-900BE173B5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A5A229-479B-4615-85C1-900BE173B5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1F59C9-614A-4C6A-8FF2-38715D1879DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1F59C9-614A-4C6A-8FF2-38715D1879DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1F59C9-614A-4C6A-8FF2-38715D1879DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1F59C9-614A-4C6A-8FF2-38715D1879DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D6BBED-0186-4CB6-A1F3-D1C0EB449449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D6BBED-0186-4CB6-A1F3-D1C0EB449449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D6BBED-0186-4CB6-A1F3-D1C0EB449449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D6BBED-0186-4CB6-A1F3-D1C0EB449449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AAFE721-BFE6-4669-8D2D-F9128FE6CFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAFE721-BFE6-4669-8D2D-F9128FE6CFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAFE721-BFE6-4669-8D2D-F9128FE6CFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAFE721-BFE6-4669-8D2D-F9128FE6CFAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +77,10 @@ Global
 		{0E4535AB-6373-4CA5-8031-12686F08D946} = {542EFBB6-BEF3-41AA-BAC0-6006035F3B2C}
 		{7F9A4161-919F-49B3-B66E-4BD6980B75FE} = {542EFBB6-BEF3-41AA-BAC0-6006035F3B2C}
 		{C2B06024-7811-42CE-8F56-F38ACB302F78} = {542EFBB6-BEF3-41AA-BAC0-6006035F3B2C}
+		{22A5A229-479B-4615-85C1-900BE173B5A3} = {4DA7DEA6-7F00-435B-B597-D9DD2ABE6429}
+		{BD1F59C9-614A-4C6A-8FF2-38715D1879DD} = {4DA7DEA6-7F00-435B-B597-D9DD2ABE6429}
+		{E6D6BBED-0186-4CB6-A1F3-D1C0EB449449} = {4DA7DEA6-7F00-435B-B597-D9DD2ABE6429}
+		{7AAFE721-BFE6-4669-8D2D-F9128FE6CFAF} = {4DA7DEA6-7F00-435B-B597-D9DD2ABE6429}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7DD0275A-F08B-4712-85C8-BBA00D8BF7BF}

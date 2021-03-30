@@ -1,0 +1,13 @@
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

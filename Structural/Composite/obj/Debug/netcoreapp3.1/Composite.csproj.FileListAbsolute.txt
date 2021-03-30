@@ -1,0 +1,13 @@
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
