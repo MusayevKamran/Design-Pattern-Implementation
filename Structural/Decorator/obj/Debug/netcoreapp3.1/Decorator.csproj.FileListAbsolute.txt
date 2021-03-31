@@ -4,7 +4,6 @@ C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Decorator\bin\De
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.dev.json
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Decorator\bin\Debug\netcoreapp3.1\Decorator.dll
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Decorator\bin\Debug\netcoreapp3.1\Decorator.pdb
-C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Decorator\obj\Debug\netcoreapp3.1\Decorator.csprojAssemblyReference.cache
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfoInputs.cache
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfo.cs
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Decorator\obj\Debug\netcoreapp3.1\Decorator.csproj.CoreCompileInputs.cache

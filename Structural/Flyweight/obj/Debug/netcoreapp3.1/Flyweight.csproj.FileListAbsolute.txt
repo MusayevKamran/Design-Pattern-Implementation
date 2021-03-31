@@ -1,0 +1,15 @@
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csprojAssemblyReference.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CopyComplete
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.genruntimeconfig.cache

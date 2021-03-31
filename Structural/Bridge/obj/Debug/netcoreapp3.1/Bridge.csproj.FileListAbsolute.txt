@@ -1,4 +1,3 @@
-C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache

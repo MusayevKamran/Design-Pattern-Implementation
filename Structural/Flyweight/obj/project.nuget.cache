@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZdqphxOyjHzKolLYgBjmhehF6F2Sj6psw3YFHb2aVn6snnEO57pK93ddUNzJ9Qu7ZVq4Sg976Y3tjY+3Io8rDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ITGAz.Dev.Kamran\\source\\repos\\DesignPattern\\Structural\\Flyweight\\Flyweight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ITGAz.Dev.Kamran\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
