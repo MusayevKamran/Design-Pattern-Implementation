@@ -10,3 +10,4 @@ C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Bridge\bin\Debug
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache

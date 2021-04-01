@@ -10,3 +10,4 @@ C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Proxy\obj\Debug\
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Structural\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache

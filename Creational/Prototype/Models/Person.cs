@@ -23,5 +23,5 @@ namespace Prototype.Models
             clone.Name = String.Copy(Name);
             return clone;
         }
-    }
+    } 
 }

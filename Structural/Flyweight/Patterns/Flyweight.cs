@@ -12,7 +12,7 @@ namespace Flyweight.Patterns
     // via its method parameters.
     public class Flyweight
     {
-        private Car _sharedState;
+        private readonly Car _sharedState;
 
         public Flyweight(Car car)
         {

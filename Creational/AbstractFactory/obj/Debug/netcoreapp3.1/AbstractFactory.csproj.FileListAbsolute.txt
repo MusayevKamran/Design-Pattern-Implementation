@@ -1,4 +1,3 @@
-C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
 C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Creational\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
