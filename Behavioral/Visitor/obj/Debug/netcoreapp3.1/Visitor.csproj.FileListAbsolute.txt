@@ -1,0 +1,13 @@
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\bin\Debug\netcoreapp3.1\Visitor.exe
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\bin\Debug\netcoreapp3.1\Visitor.deps.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.dev.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\bin\Debug\netcoreapp3.1\Visitor.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\bin\Debug\netcoreapp3.1\Visitor.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\obj\Debug\netcoreapp3.1\Visitor.csprojAssemblyReference.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfoInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfo.cs
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\obj\Debug\netcoreapp3.1\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\obj\Debug\netcoreapp3.1\Visitor.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\obj\Debug\netcoreapp3.1\Visitor.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\DesignPattern\Behavioral\Visitor\obj\Debug\netcoreapp3.1\Visitor.genruntimeconfig.cache
